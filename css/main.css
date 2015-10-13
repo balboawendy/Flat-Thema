@@ -135,3 +135,22 @@ a {
 .portfolio-item:hover .overlay {
   opacity: 1;
 }
+ li .wendy {
+  list-style: none;
+}
+ul.cloud li {
+    display: inline-block;
+    margin: 0 0 2px 0;
+    }
+    .border img {
+      border-radius: 6px;
+    }
+    ul.cloud {
+    padding-left: 0px;
+    }
+    .input-group {
+      margin-top: 20px;
+    }
+    .thumbnail {
+      margin-top: 20px;
+    }
