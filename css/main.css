@@ -51,9 +51,6 @@ a {
     font-weight: 400;
 }
 
-
-
-
 .portfolio-items,
 .portfolio-filter {
   list-style: none;
@@ -134,13 +131,13 @@ a {
 }
 .portfolio-item:hover .overlay {
   opacity: 1;
-<<<<<<< HEAD
+
 }
-=======
-}
- li .wendy {
+
+li .wendy {
   list-style: none;
 }
+
 ul.cloud li {
     display: inline-block;
     margin: 0 0 2px 0;
@@ -157,4 +154,4 @@ ul.cloud li {
     .thumbnail {
       margin-top: 20px;
     }
->>>>>>> 4634790f792d88bf07f9c51eac380cf7ce37e24c
+
